@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M0 160 l0 -160 160 0 160 0 0 160 0
+160 -160 0 -160 0 0 -160z"/>
+<path fill="#ffffff" stroke="none" d="M47 304 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M93 293 c-7 -2 -19 -2 -25 0 -7 3 -2 5
+12 5 14 0 19 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M267 294 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M130 275 c-9 -10 -9 -15 -1 -15 6 0 11
+-5 11 -12 0 -6 -8 -3 -20 7 -21 19 -18 35 7 35 13 0 13 -3 3 -15z"/>
+<path fill="#ffffff" stroke="none" d="M217 284 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M224 261 c-8 -8 -43 -8 -38 0 2 4 13 7
+24 6 10 -1 17 -3 14 -6z"/>
+<path fill="#ffffff" stroke="none" d="M166 245 c-1 -8 -5 -17 -8 -21 -5 -4
+-4 16 1 34 3 9 9 -1 7 -13z"/>
+<path fill="#ffffff" stroke="none" d="M272 236 c11 -16 13 -27 6 -37 -8 -12
+-9 -12 -5 1 2 8 -5 25 -16 38 -11 12 -16 22 -11 22 5 0 16 -11 26 -24z"/>
+<path fill="#ffffff" stroke="none" d="M67 172 c-10 -10 -15 -21 -12 -24 3 -3
+-6 -8 -20 -10 -34 -7 -31 6 8 31 40 26 45 26 24 3z"/>
+<path fill="#ffffff" stroke="none" d="M154 148 c-3 -4 -11 -5 -19 -1 -21 7
+-19 12 4 10 11 0 18 -5 15 -9z"/>
+<path fill="#ffffff" stroke="none" d="M220 154 c0 -8 -19 -13 -24 -6 -3 5 1
+9 9 9 8 0 15 -2 15 -3z"/>
+<path fill="#ffffff" stroke="none" d="M181 63 c13 -17 13 -17 -6 -3 -11 8
+-22 16 -24 17 -2 2 0 3 6 3 6 0 17 -8 24 -17z"/>
+<path fill="#ffffff" stroke="none" d="M77 24 c-3 -3 -12 -4 -19 -1 -8 3 -5 6
+6 6 11 1 17 -2 13 -5z"/>
+</g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M0 160 l0 -160 160 0 160 0 0 50 c0 39
+-3 50 -16 50 -15 0 -15 2 0 25 12 17 16 48 16 110 l0 85 -160 0 -160 0 0 -160z"/>
+<path fill="#ffffff" stroke="none" d="M57 275 c0 -6 -6 -12 -12 -12 -6 0 -12
+6 -12 12 0 6 6 12 12 12 6 0 12 -6 12 -12z"/>
+<path fill="#ffffff" stroke="none" d="M117 164 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M207 164 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M57 133 c-4 -3 -1 -13 6 -22 11 -14 10
+-14 -5 -2 -16 12 -16 31 -1 31 4 0 3 -3 0 -7z"/>
+<path fill="#ffffff" stroke="none" d="M106 114 c1 -9 0 -13 -4 -10 -3 4 -7
+14 -8 22 -1 9 0 13 4 10 3 -4 7 -14 8 -22z"/>
+<path fill="#ffffff" stroke="none" d="M147 120 c1 -9 -5 -17 -12 -17 -7 0
+-13 8 -12 17 1 22 23 22 24 0z"/>
+<path fill="#ffffff" stroke="none" d="M185 110 c-5 -8 -11 -8 -17 -2 -6 6 -7
+16 -3 22 5 8 11 8 17 2 6 -6 7 -16 3 -22z"/>
+<path fill="#ffffff" stroke="none" d="M223 131 c3 8 5 5 4 -7 -1 -27 -23 -27
+-25 0 -1 15 1 17 7 7 7 -11 9 -11 14 0z"/>
+<path fill="#ffffff" stroke="none" d="M275 130 c3 -5 -1 -10 -10 -10 -9 0
+-13 5 -10 10 3 6 8 10 10 10 2 0 7 -4 10 -10z"/>
+<path fill="#ffffff" stroke="none" d="M277 104 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M117 84 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M207 84 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+</g>
+</svg>

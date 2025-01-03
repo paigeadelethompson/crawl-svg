@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M29 307 c6 -8 23 -13 38 -12 16 1 20 0
+11 -2 -25 -6 -23 -15 12 -48 l29 -28 11 28 c9 23 7 30 -7 42 -17 13 -17 13 1
+11 10 -2 21 3 23 10 4 9 -13 12 -62 12 -55 0 -65 -2 -56 -13z"/>
+<path fill="#000000" stroke="none" d="M170 312 c0 -5 26 -7 58 -5 83 6 87 11
+10 12 -38 1 -68 -3 -68 -7z"/>
+<path fill="#000000" stroke="none" d="M311 294 c0 -11 3 -14 6 -6 3 7 2 16
+-1 19 -3 4 -6 -2 -5 -13z"/>
+<path fill="#000000" stroke="none" d="M10 236 c0 -75 -3 -73 73 -42 l28 11
+-51 50 -50 49 0 -68z"/>
+<path fill="#000000" stroke="none" d="M170 237 l0 -51 45 44 c24 24 43 46 40
+48 -2 3 -22 6 -45 7 l-40 2 0 -50z"/>
+<path fill="#000000" stroke="none" d="M230 225 l-54 -55 59 0 c33 0 67 5 75
+10 11 7 11 10 2 10 -8 0 -12 12 -11 33 4 73 -1 73 -71 2z"/>
+<path fill="#000000" stroke="none" d="M137 215 c-4 -8 -2 -17 3 -20 6 -4 10
+3 10 14 0 25 -6 27 -13 6z"/>
+<path fill="#000000" stroke="none" d="M100 180 c-12 -8 -9 -10 13 -10 16 0
+26 4 22 10 -8 12 -16 12 -35 0z"/>
+<path fill="#000000" stroke="none" d="M10 83 l0 -57 55 54 c30 29 52 56 50
+58 -2 3 -11 -1 -20 -8 -10 -8 -15 -9 -15 -1 0 6 -16 11 -35 11 l-35 0 0 -57z"/>
+<path fill="#000000" stroke="none" d="M75 70 l-69 -70 154 0 154 0 -69 70
+c-38 39 -76 70 -85 70 -9 0 -47 -31 -85 -70z"/>
+<path fill="#ffffff" stroke="none" d="M170 80 c0 -5 -4 -10 -10 -10 -5 0 -10
+5 -10 10 0 6 5 10 10 10 6 0 10 -4 10 -10z"/>
+<path fill="#000000" stroke="none" d="M245 90 c27 -27 51 -50 52 -50 2 0 3
+23 3 50 0 48 -1 50 -28 50 -15 0 -34 -6 -41 -12 -11 -10 -13 -10 -7 0 5 7 1
+12 -11 12 -12 0 -3 -14 32 -50z"/>
+</g>
+</svg>

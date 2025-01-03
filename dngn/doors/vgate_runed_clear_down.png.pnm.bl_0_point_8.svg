@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M0 160 l0 -160 160 0 160 0 0 160 0
+160 -36 0 c-25 0 -33 -3 -28 -12 6 -10 4 -10 -7 -3 -17 13 -159 13 -178 0 -10
+-5 -12 -4 -7 3 5 8 -4 12 -28 12 l-36 0 0 -160z"/>
+<path fill="#ffffff" stroke="none" d="M123 233 c-7 -2 -19 -2 -25 0 -7 3 -2
+5 12 5 14 0 19 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M207 234 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M254 231 c4 -5 -3 -7 -14 -4 -23 6 -26
+13 -6 13 8 0 17 -4 20 -9z"/>
+<path fill="#ffffff" stroke="none" d="M89 77 c27 -24 36 -39 30 -48 -5 -8 -9
+-11 -9 -6 0 4 0 10 0 15 -1 15 -64 71 -73 65 -6 -4 -8 1 -4 11 4 10 8 27 9 39
+1 13 3 8 5 -10 3 -21 17 -43 42 -66z"/>
+<path fill="#ffffff" stroke="none" d="M293 94 l2 -69 -45 0 c-25 0 -48 4 -51
+8 -4 5 13 27 37 49 30 28 44 49 44 66 0 56 11 10 13 -54z"/>
+<path fill="#ffffff" stroke="none" d="M90 156 c0 -2 -7 -7 -16 -10 -8 -3 -12
+-2 -9 4 6 10 25 14 25 6z"/>
+<path fill="#ffffff" stroke="none" d="M197 154 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M237 154 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M147 94 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M197 94 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M167 44 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#000000" stroke="none" d="M240 75 l-34 -35 37 0 c36 0 37 1 37
+35 0 19 -1 35 -3 35 -2 0 -18 -16 -37 -35z"/>
+</g>
+</svg>

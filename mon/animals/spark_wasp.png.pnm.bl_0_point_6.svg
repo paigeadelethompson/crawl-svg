@@ -1,0 +1,40 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M0 160 l0 -160 160 0 160 0 0 160 0
+160 -160 0 -160 0 0 -160z"/>
+<path fill="#ffffff" stroke="none" d="M145 270 c-9 -16 -18 -30 -21 -30 -2 0
+2 14 11 30 9 17 18 30 21 30 2 0 -2 -13 -11 -30z"/>
+<path fill="#ffffff" stroke="none" d="M310 281 c0 -6 -5 -13 -12 -17 -7 -4
+-8 -3 -4 4 11 18 -14 14 -54 -8 -25 -14 -30 -19 -16 -20 11 0 17 -3 13 -6 -7
+-7 -87 -14 -87 -8 0 3 28 18 63 34 63 31 97 38 97 21z"/>
+<path fill="#ffffff" stroke="none" d="M86 201 c-11 -17 -25 -13 -21 7 2 9 4
+19 4 22 1 2 6 -1 12 -7 6 -6 8 -16 5 -22z"/>
+<path fill="#ffffff" stroke="none" d="M177 168 c-3 -8 -6 -5 -6 6 -1 11 2 17
+5 13 3 -3 4 -12 1 -19z"/>
+<path fill="#ffffff" stroke="none" d="M235 170 c3 -5 1 -10 -4 -10 -6 0 -11
+5 -11 10 0 6 2 10 4 10 3 0 8 -4 11 -10z"/>
+<path fill="#ffffff" stroke="none" d="M130 166 c0 -3 -4 -8 -10 -11 -5 -3
+-10 -1 -10 4 0 6 5 11 10 11 6 0 10 -2 10 -4z"/>
+<path fill="#ffffff" stroke="none" d="M157 138 c-3 -7 -5 -2 -5 12 0 14 2 19
+5 13 2 -7 2 -19 0 -25z"/>
+<path fill="#ffffff" stroke="none" d="M187 128 c-3 -8 -6 -5 -6 6 -1 11 2 17
+5 13 3 -3 4 -12 1 -19z"/>
+<path fill="#ffffff" stroke="none" d="M127 118 c-3 -8 -6 -5 -6 6 -1 11 2 17
+5 13 3 -3 4 -12 1 -19z"/>
+<path fill="#ffffff" stroke="none" d="M167 68 c-2 -13 -4 -5 -4 17 -1 22 1
+32 4 23 2 -10 2 -28 0 -40z"/>
+<path fill="#ffffff" stroke="none" d="M197 78 c-3 -7 -5 -2 -5 12 0 14 2 19
+5 13 2 -7 2 -19 0 -25z"/>
+<path fill="#ffffff" stroke="none" d="M270 67 c0 -2 -12 -14 -27 -28 l-26
+-24 19 27 c16 23 34 36 34 25z"/>
+</g>
+</svg>

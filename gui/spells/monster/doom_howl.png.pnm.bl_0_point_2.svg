@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M0 160 l0 -160 160 0 160 0 0 160 0
+160 -160 0 -160 0 0 -160z"/>
+<path fill="#ffffff" stroke="none" d="M167 293 l-137 -4 1 -129 c0 -89 4
+-130 12 -134 7 -2 4 -5 -5 -5 -16 -1 -18 12 -18 139 l0 140 143 -2 142 -2
+-138 -3z"/>
+<path fill="#ffffff" stroke="none" d="M74 259 c-3 -5 -10 -7 -15 -3 -5 3 -7
+10 -3 15 3 5 10 7 15 3 5 -3 7 -10 3 -15z"/>
+<path fill="#ffffff" stroke="none" d="M274 259 c-3 -5 -10 -7 -15 -3 -5 3 -7
+10 -3 15 3 5 10 7 15 3 5 -3 7 -10 3 -15z"/>
+<path fill="#ffffff" stroke="none" d="M175 240 c-3 -5 2 -10 13 -10 22 0 25
+-27 3 -35 -8 -3 -12 -3 -8 1 11 11 -13 34 -37 35 -19 1 -18 2 4 9 14 4 26 8
+28 9 2 1 0 -3 -3 -9z"/>
+<path fill="#ffffff" stroke="none" d="M114 201 c12 -13 14 -21 6 -26 -6 -4
+-9 -1 -8 7 2 7 -5 12 -14 12 -10 -1 -14 4 -11 12 7 18 7 18 27 -5z"/>
+<path fill="#ffffff" stroke="none" d="M218 178 c-2 -7 5 -12 14 -12 10 1 14
+-4 11 -13 -5 -12 -9 -11 -24 3 -10 9 -16 21 -13 25 8 13 14 11 12 -3z"/>
+<path fill="#ffffff" stroke="none" d="M146 161 c-7 -11 13 -28 39 -33 17 -3
+15 -5 -7 -10 -15 -3 -25 -1 -22 3 3 5 -4 9 -15 9 -21 0 -24 19 -6 32 13 10 17
+10 11 -1z"/>
+<path fill="#ffffff" stroke="none" d="M64 139 c-3 -5 -10 -7 -15 -3 -5 3 -7
+10 -3 15 3 5 10 7 15 3 5 -3 7 -10 3 -15z"/>
+<path fill="#ffffff" stroke="none" d="M76 93 c-1 -13 8 -19 33 -21 25 -3 31
+0 25 10 -6 10 -3 9 10 -1 13 -11 20 -11 28 -3 7 7 17 12 22 12 6 0 4 -5 -4
+-10 -11 -8 -6 -10 20 -8 26 2 35 8 34 20 -1 10 4 14 12 11 47 -18 -23 -63 -96
+-63 -71 0 -130 36 -103 63 12 12 21 7 19 -10z"/>
+</g>
+</svg>

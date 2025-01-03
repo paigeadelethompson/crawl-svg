@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M0 160 l0 -160 160 0 160 0 0 160 0
+160 -160 0 -160 0 0 -160z"/>
+<path fill="#ffffff" stroke="none" d="M188 299 c18 -6 29 -15 26 -21 -4 -7
+-9 -7 -13 0 -3 5 -15 12 -27 16 -16 5 -23 0 -32 -18 -9 -21 -8 -25 6 -28 12
+-3 7 -7 -14 -15 l-32 -11 25 44 c14 24 26 44 27 44 2 0 17 -5 34 -11z"/>
+<path fill="#ffffff" stroke="none" d="M214 236 c-3 -9 -9 -16 -14 -16 -4 0
+-17 -9 -30 -20 -25 -22 -40 -26 -40 -10 0 6 -11 10 -24 10 -14 0 -27 3 -29 8
+-3 4 17 5 43 4 41 -3 53 0 72 20 26 27 31 28 22 4z"/>
+<path fill="#ffffff" stroke="none" d="M247 158 l3 -22 -25 24 c-18 17 -22 26
+-13 31 16 10 31 -4 35 -33z"/>
+<path fill="#ffffff" stroke="none" d="M102 178 c-15 -15 -16 -31 0 -22 7 5 8
+3 3 -5 -5 -9 -10 -10 -18 -2 -10 10 6 41 21 41 3 0 1 -5 -6 -12z"/>
+<path fill="#ffffff" stroke="none" d="M221 149 c13 -26 7 -24 -22 7 -17 19
+-19 23 -6 18 10 -3 22 -15 28 -25z"/>
+<path fill="#ffffff" stroke="none" d="M160 155 c-15 -18 -24 -20 -14 -3 5 8
+2 9 -9 5 -10 -3 -17 -2 -17 3 0 6 12 10 26 10 22 0 25 -2 14 -15z"/>
+<path fill="#ffffff" stroke="none" d="M105 110 c-15 -29 -35 -40 -35 -20 0
+10 36 50 45 50 3 0 -1 -13 -10 -30z"/>
+<path fill="#ffffff" stroke="none" d="M137 79 c-1 -23 -3 -36 -5 -30 -2 6
+-10 11 -18 11 -8 0 -14 7 -14 16 0 9 5 12 12 8 7 -5 8 -3 3 6 -6 10 8 29 22
+30 1 0 1 -18 0 -41z"/>
+<path fill="#ffffff" stroke="none" d="M179 109 c4 6 12 -7 17 -29 9 -31 8
+-40 -3 -44 -15 -6 -33 32 -32 67 0 13 3 16 6 8 4 -9 8 -10 12 -2z"/>
+<path fill="#ffffff" stroke="none" d="M240 116 c0 -2 3 -11 6 -20 4 -10 1
+-16 -9 -16 -8 0 -17 9 -20 20 -3 13 0 20 9 20 8 0 14 -2 14 -4z"/>
+<path fill="#ffffff" stroke="none" d="M94 24 c3 -8 2 -12 -4 -9 -6 3 -10 10
+-10 16 0 14 7 11 14 -7z"/>
+<path fill="#ffffff" stroke="none" d="M241 17 c-10 -9 -11 -8 -5 6 3 10 9 15
+12 12 3 -3 0 -11 -7 -18z"/>
+</g>
+</svg>

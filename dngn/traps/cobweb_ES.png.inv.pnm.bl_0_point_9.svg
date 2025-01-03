@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M1 161 l1 -159 36 5 c44 7 53 7 161 -3
+67 -6 82 -4 76 6 -5 9 -24 11 -64 7 -40 -4 -51 -3 -38 4 29 17 94 15 115 -4
+23 -21 39 -22 21 -1 -21 26 -25 183 -5 240 23 68 21 70 -27 28 -23 -20 -62
+-44 -86 -53 -23 -9 -43 -19 -42 -24 5 -33 -102 -177 -133 -177 -5 0 9 16 32
+36 45 38 74 82 82 124 4 18 19 32 56 50 56 28 86 49 98 68 6 9 -25 12 -139 12
+l-146 0 2 -159z"/>
+<path fill="#ffffff" stroke="none" d="M278 233 c-5 -20 -8 -69 -6 -109 3 -60
+1 -71 -10 -61 -17 13 -12 135 6 180 16 39 22 33 10 -10z"/>
+<path fill="#ffffff" stroke="none" d="M231 159 c-8 -51 -9 -52 -10 -14 -1 42
+10 97 16 79 2 -6 -1 -35 -6 -65z"/>
+<path fill="#ffffff" stroke="none" d="M201 183 c-10 -17 -10 -16 -11 3 0 23
+13 41 18 25 2 -6 -1 -18 -7 -28z"/>
+<path fill="#ffffff" stroke="none" d="M166 134 c-3 -8 -10 -13 -16 -9 -6 3
+-5 16 3 32 9 21 13 23 15 9 2 -9 1 -24 -2 -32z"/>
+<path fill="#ffffff" stroke="none" d="M195 100 c-12 -19 -22 -10 -17 16 4 22
+6 24 14 10 5 -9 6 -21 3 -26z"/>
+<path fill="#ffffff" stroke="none" d="M150 100 c0 -5 -7 -7 -15 -4 -8 4 -15
+8 -15 10 0 2 7 4 15 4 8 0 15 -4 15 -10z"/>
+<path fill="#ffffff" stroke="none" d="M140 66 c0 -9 -8 -12 -26 -8 -19 3 -22
+7 -12 13 20 13 38 11 38 -5z"/>
+<path fill="#ffffff" stroke="none" d="M229 66 c9 -11 4 -15 -26 -19 -44 -8
+-55 0 -29 19 25 18 40 18 55 0z"/>
+<path fill="#ffffff" stroke="none" d="M118 33 c-10 -2 -28 -2 -40 0 -13 2 -5
+4 17 4 22 1 32 -1 23 -4z"/>
+<path fill="#000000" stroke="none" d="M306 224 c-9 -23 -6 -156 4 -179 6 -13
+9 18 9 88 1 59 -1 107 -3 107 -2 0 -7 -7 -10 -16z"/>
+</g>
+</svg>

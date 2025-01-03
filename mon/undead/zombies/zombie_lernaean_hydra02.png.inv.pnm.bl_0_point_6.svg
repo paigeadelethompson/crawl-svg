@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="48.000000pt" viewBox="0 0 32.000000 48.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,48.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M130 371 c0 -6 5 -13 10 -16 13 -8 13
+-51 0 -75 -12 -23 6 -38 23 -21 9 9 9 14 -2 20 -7 5 -9 11 -4 14 10 6 9 44 -2
+70 -8 18 -25 24 -25 8z"/>
+<path fill="#000000" stroke="none" d="M246 357 c3 -10 9 -15 12 -12 3 3 0 11
+-7 18 -10 9 -11 8 -5 -6z"/>
+<path fill="#000000" stroke="none" d="M217 282 c-19 -21 -22 -32 -7 -32 6 0
+10 6 10 14 0 8 6 16 13 19 6 2 9 7 6 11 -3 3 -13 -2 -22 -12z"/>
+<path fill="#000000" stroke="none" d="M106 225 c-9 -14 -14 -30 -11 -35 3 -6
+-1 -10 -9 -10 -23 0 -19 -18 5 -25 24 -8 46 15 26 27 -9 6 -8 8 2 8 7 0 11 6
+7 15 -3 9 0 15 10 15 9 0 14 5 12 12 -8 22 -25 19 -42 -7z"/>
+<path fill="#000000" stroke="none" d="M175 220 c-10 -12 -13 -20 -7 -20 7 0
+12 4 12 9 0 5 8 11 18 13 11 2 13 6 6 10 -6 4 -19 -1 -29 -12z"/>
+<path fill="#000000" stroke="none" d="M60 136 c0 -12 10 -16 37 -16 41 0 36
+14 -9 25 -22 6 -28 4 -28 -9z"/>
+<path fill="#000000" stroke="none" d="M70 95 c14 -16 46 -20 54 -6 6 8 -25
+21 -53 21 -11 0 -11 -3 -1 -15z"/>
+<path fill="#000000" stroke="none" d="M15 21 c-2 -5 7 -8 20 -8 14 0 25 2 25
+6 0 10 -39 11 -45 2z"/>
+<path fill="#000000" stroke="none" d="M80 20 c0 -5 5 -10 11 -10 5 0 7 5 4
+10 -3 6 -8 10 -11 10 -2 0 -4 -4 -4 -10z"/>
+<path fill="#000000" stroke="none" d="M175 20 c-3 -5 -1 -10 4 -10 6 0 11 5
+11 10 0 6 -2 10 -4 10 -3 0 -8 -4 -11 -10z"/>
+<path fill="#000000" stroke="none" d="M210 20 c0 -5 5 -10 11 -10 5 0 7 5 4
+10 -3 6 -8 10 -11 10 -2 0 -4 -4 -4 -10z"/>
+<path fill="#000000" stroke="none" d="M245 20 c3 -5 11 -10 16 -10 6 0 7 5 4
+10 -3 6 -11 10 -16 10 -6 0 -7 -4 -4 -10z"/>
+</g>
+</svg>

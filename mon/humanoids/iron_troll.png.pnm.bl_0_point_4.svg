@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M0 160 l0 -160 160 0 160 0 0 160 0
+160 -160 0 -160 0 0 -160z"/>
+<path fill="#ffffff" stroke="none" d="M132 296 c4 -5 4 -15 0 -21 -4 -5 -7
+-21 -7 -35 0 -18 -6 -26 -22 -28 -13 -2 -23 1 -23 7 0 5 9 8 20 6 13 -3 20 2
+20 12 0 9 -6 13 -14 10 -11 -4 -13 -1 -9 10 4 11 2 14 -8 11 -8 -3 -13 -10
+-12 -15 1 -5 -4 -10 -11 -10 -8 0 -13 11 -13 26 0 14 2 20 4 13 3 -6 9 -9 14
+-6 6 4 6 10 0 18 -8 10 -3 13 22 13 17 0 35 -5 39 -11z"/>
+<path fill="#ffffff" stroke="none" d="M218 266 c10 -10 9 -16 -2 -31 -14 -19
+-15 -19 -27 10 -8 17 -18 34 -24 38 -5 5 1 5 15 2 14 -4 31 -12 38 -19z"/>
+<path fill="#ffffff" stroke="none" d="M284 225 c23 -21 26 -28 16 -40 -7 -8
+-16 -15 -21 -15 -14 0 -11 28 4 33 7 3 4 6 -6 6 -11 1 -15 5 -11 13 5 8 2 9
+-9 5 -17 -6 -31 5 -20 17 11 10 19 7 47 -19z"/>
+<path fill="#ffffff" stroke="none" d="M79 196 c10 -12 8 -13 -8 -9 -12 3 -18
+9 -15 14 7 12 10 11 23 -5z"/>
+<path fill="#ffffff" stroke="none" d="M64 165 c-4 -8 -10 -12 -15 -9 -11 6
+-2 24 11 24 5 0 7 -7 4 -15z"/>
+<path fill="#ffffff" stroke="none" d="M268 161 c3 -8 -3 -12 -14 -9 -12 2
+-23 -5 -29 -17 -6 -11 -19 -21 -30 -22 -20 -3 -20 -3 0 6 19 9 18 10 -5 12
+-24 2 -24 2 -2 6 12 2 20 8 17 13 -3 4 -15 6 -28 3 -12 -3 -19 -3 -16 0 6 8
+80 26 93 23 6 -1 12 -8 14 -15z"/>
+<path fill="#ffffff" stroke="none" d="M37 125 c0 -8 -5 -11 -10 -8 -6 3 -8
+-7 -5 -25 2 -17 1 -29 -4 -26 -12 8 -10 48 4 62 15 15 15 15 15 -3z"/>
+<path fill="#ffffff" stroke="none" d="M130 95 c10 -13 9 -15 -8 -15 -15 0
+-20 5 -16 15 4 8 7 15 9 15 1 0 8 -7 15 -15z"/>
+<path fill="#ffffff" stroke="none" d="M232 78 c-6 -6 -16 -7 -22 -3 -9 6 -9
+9 1 16 17 10 34 0 21 -13z"/>
+<path fill="#ffffff" stroke="none" d="M120 60 c0 -5 -7 -10 -15 -10 -8 0 -15
+5 -15 10 0 6 7 10 15 10 8 0 15 -4 15 -10z"/>
+<path fill="#ffffff" stroke="none" d="M253 56 c4 -10 1 -13 -8 -9 -8 3 -12 9
+-9 14 7 12 11 11 17 -5z"/>
+<path fill="#ffffff" stroke="none" d="M130 20 c0 -5 -10 -10 -22 -10 -19 0
+-20 2 -8 10 19 13 30 13 30 0z"/>
+<path fill="#ffffff" stroke="none" d="M255 20 c4 -6 -6 -10 -22 -9 -25 0 -26
+1 -8 9 11 5 21 9 22 9 1 1 5 -3 8 -9z"/>
+<path fill="#000000" stroke="none" d="M97 294 c-8 -8 1 -24 14 -24 5 0 9 7 9
+15 0 15 -12 20 -23 9z"/>
+</g>
+</svg>

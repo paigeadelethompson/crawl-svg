@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M0 160 l0 -160 160 0 160 0 0 160 0
+160 -160 0 -160 0 0 -160z"/>
+<path fill="#ffffff" stroke="none" d="M300 160 l0 -140 -140 0 -140 0 0 140
+0 140 140 0 140 0 0 -140z"/>
+<path fill="#000000" stroke="none" d="M30 160 l0 -130 130 0 130 0 0 130 0
+130 -130 0 -130 0 0 -130z"/>
+<path fill="#ffffff" stroke="none" d="M150 214 c0 -7 -5 -16 -11 -20 -17 -10
+-32 12 -24 36 5 17 10 19 21 9 8 -6 14 -17 14 -25z"/>
+<path fill="#ffffff" stroke="none" d="M206 204 c-3 -8 -10 -14 -16 -14 -17 0
+-23 29 -9 46 11 14 13 14 22 -1 5 -9 6 -23 3 -31z"/>
+<path fill="#ffffff" stroke="none" d="M110 164 c0 -7 -5 -16 -11 -20 -17 -10
+-32 12 -24 36 5 17 10 19 21 9 8 -6 14 -17 14 -25z"/>
+<path fill="#ffffff" stroke="none" d="M246 154 c-3 -8 -10 -14 -16 -14 -17 0
+-23 29 -9 46 11 14 13 14 22 -1 5 -9 6 -23 3 -31z"/>
+<path fill="#ffffff" stroke="none" d="M206 133 c21 -43 7 -61 -46 -59 -55 2
+-67 16 -47 59 13 27 22 34 47 34 25 0 34 -7 46 -34z"/>
+<path fill="#000000" stroke="none" d="M120 215 c0 -8 5 -15 10 -15 6 0 10 7
+10 15 0 8 -4 15 -10 15 -5 0 -10 -7 -10 -15z"/>
+<path fill="#000000" stroke="none" d="M180 215 c0 -8 5 -15 10 -15 6 0 10 7
+10 15 0 8 -4 15 -10 15 -5 0 -10 -7 -10 -15z"/>
+<path fill="#000000" stroke="none" d="M80 165 c0 -8 5 -15 10 -15 6 0 10 7
+10 15 0 8 -4 15 -10 15 -5 0 -10 -7 -10 -15z"/>
+<path fill="#000000" stroke="none" d="M220 165 c0 -8 5 -15 10 -15 6 0 10 7
+10 15 0 8 -4 15 -10 15 -5 0 -10 -7 -10 -15z"/>
+<path fill="#000000" stroke="none" d="M121 129 c-17 -38 -9 -47 38 -45 50 1
+56 8 40 44 -17 40 -60 40 -78 1z"/>
+</g>
+</svg>

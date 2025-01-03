@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M0 291 c0 -18 3 -22 9 -12 10 16 51 6
+51 -13 0 -7 -12 -25 -26 -40 l-27 -26 18 -41 c18 -39 18 -43 2 -87 -10 -25
+-14 -49 -9 -54 5 -5 38 -11 74 -15 82 -7 154 14 194 60 28 31 29 36 29 129 1
+53 -2 92 -6 87 -3 -6 -9 -2 -11 9 -4 15 -2 19 8 15 8 -3 14 -1 14 4 0 5 -72 9
+-160 10 l-160 1 0 -27z"/>
+<path fill="#ffffff" stroke="none" d="M175 264 c2 -24 1 -26 -10 -11 -6 9
+-15 13 -20 9 -4 -4 -2 3 6 15 16 26 20 24 24 -13z"/>
+<path fill="#ffffff" stroke="none" d="M248 289 c-10 -5 -18 -18 -19 -27 0
+-11 -2 -12 -6 -4 -6 15 14 42 31 42 6 0 3 -5 -6 -11z"/>
+<path fill="#ffffff" stroke="none" d="M290 276 c0 -3 -4 -8 -10 -11 -5 -3
+-10 -1 -10 4 0 6 5 11 10 11 6 0 10 -2 10 -4z"/>
+<path fill="#ffffff" stroke="none" d="M107 214 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M144 164 c3 -8 2 -12 -4 -9 -6 3 -10
+10 -10 16 0 14 7 11 14 -7z"/>
+<path fill="#ffffff" stroke="none" d="M258 140 c7 -11 9 -20 4 -20 -4 0 -13
+9 -20 20 -7 11 -9 20 -4 20 4 0 13 -9 20 -20z"/>
+<path fill="#ffffff" stroke="none" d="M123 135 c-3 -9 -8 -14 -10 -11 -3 3
+-2 9 2 15 9 16 15 13 8 -4z"/>
+<path fill="#ffffff" stroke="none" d="M220 117 c-21 -18 -73 -40 -65 -27 4 6
+21 17 38 24 41 18 44 19 27 3z"/>
+<path fill="#ffffff" stroke="none" d="M291 97 c-10 -9 -11 -8 -5 6 3 10 9 15
+12 12 3 -3 0 -11 -7 -18z"/>
+<path fill="#ffffff" stroke="none" d="M92 43 c-12 -2 -20 -9 -17 -14 4 -5 -1
+-9 -9 -9 -8 0 -17 4 -21 9 -6 10 18 19 50 18 16 0 16 -1 -3 -4z"/>
+<path fill="#ffffff" stroke="none" d="M133 13 c-7 -2 -19 -2 -25 0 -7 3 -2 5
+12 5 14 0 19 -2 13 -5z"/>
+<path fill="#000000" stroke="none" d="M268 3 c7 -3 16 -2 19 1 4 3 -2 6 -13
+5 -11 0 -14 -3 -6 -6z"/>
+</g>
+</svg>

@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="32.000000pt" height="32.000000pt" viewBox="0 0 32.000000 32.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,32.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path fill="#000000" stroke="none" d="M168 266 c-67 -14 -111 -49 -103 -80 3
+-12 2 -15 -1 -8 -5 10 -9 9 -20 -5 -13 -17 -13 -17 -14 4 0 12 5 25 10 28 6 4
+8 11 4 16 -4 6 -14 3 -25 -7 -22 -20 -28 -106 -6 -101 7 1 12 -11 13 -33 2
+-75 -7 -70 111 -70 l106 0 -24 27 -24 28 31 -27 c35 -32 83 -38 86 -10 6 70
+-2 105 -15 70 -3 -10 -9 -9 -22 4 -16 15 -16 17 4 27 18 10 20 15 10 34 -9 20
+-8 19 11 -3 l22 -25 -8 30 c-4 17 -8 48 -8 70 -1 40 -1 40 -41 42 -22 1 -66
+-4 -97 -11z"/>
+<path fill="#ffffff" stroke="none" d="M167 213 c10 -10 13 -14 6 -9 -7 4 -21
+6 -31 4 -10 -3 -27 1 -37 8 -17 13 -16 14 12 14 17 0 39 -8 50 -17z"/>
+<path fill="#ffffff" stroke="none" d="M261 195 c14 9 11 -1 -4 -13 -10 -8
+-13 -5 -14 16 0 15 1 19 4 9 2 -9 9 -15 14 -12z"/>
+<path fill="#ffffff" stroke="none" d="M120 180 c0 -5 -4 -10 -10 -10 -5 0
+-10 5 -10 10 0 6 5 10 10 10 6 0 10 -4 10 -10z"/>
+<path fill="#ffffff" stroke="none" d="M235 130 c10 -11 16 -20 13 -20 -3 0
+-13 9 -23 20 -10 11 -16 20 -13 20 3 0 13 -9 23 -20z"/>
+<path fill="#ffffff" stroke="none" d="M67 134 c-3 -3 -12 -4 -19 -1 -8 3 -5
+6 6 6 11 1 17 -2 13 -5z"/>
+<path fill="#ffffff" stroke="none" d="M95 98 c5 4 5 1 0 -7 -7 -12 -10 -11
+-20 2 -11 15 -13 14 -23 -8 -9 -19 -9 -25 0 -25 9 0 9 -3 0 -12 -21 -21 -26 2
+-8 39 16 34 19 36 30 20 7 -9 17 -13 21 -9z"/>
+<path fill="#ffffff" stroke="none" d="M198 79 c-3 -8 -7 -3 -11 10 -4 17 -3
+21 5 13 5 -5 8 -16 6 -23z"/>
+<path fill="#ffffff" stroke="none" d="M135 82 c-3 -3 -11 0 -18 7 -9 10 -8
+11 6 5 10 -3 15 -9 12 -12z"/>
+<path fill="#ffffff" stroke="none" d="M290 58 c0 -17 -15 -7 -27 18 -12 26
+-12 26 7 9 11 -10 20 -22 20 -27z"/>
+</g>
+</svg>
